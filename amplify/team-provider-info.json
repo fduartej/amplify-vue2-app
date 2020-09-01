@@ -14,6 +14,12 @@
         "categories": {
             "auth": {
                 "amplifyvue27802cf52": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1khmtz2wzq3nc",
+                    "type": "manual"
+                }
             }
         }
     }
